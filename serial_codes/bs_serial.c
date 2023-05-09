@@ -44,7 +44,7 @@ int main()
      }
      printf("\n");
      printf("Execution time: %lf secs \n",cpu_time_used);
-     printf("Burst time: %lf secs \n", cpu_time_used\n);
+     printf("Burst time: %lf secs \n", cpu_time_used/n);
 }
 
 
